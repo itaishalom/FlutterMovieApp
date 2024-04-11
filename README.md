@@ -41,6 +41,9 @@ This is a Flutter application that retrieves and displays movie information from
 * Testing: Includes unit tests for some classes showcasing testing knowledge and commitment to code quality.
 * Dependency Injection: Implements a custom dependency injection solution to manage dependencies between classes, promoting loose coupling and testability.
 
+**⭐ Missing:**
+There is a map ID to the genre's name. It should also be queried to show the user the genre's names.
+
 **⭐ Getting Started:**
 
 1. Clone this repository.
