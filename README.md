@@ -49,11 +49,9 @@ This is a Flutter application that retrieves and displays movie information from
 
 **⭐ Images:**
 
-<img src="https://github.com/itaishalom/FlutterMovieApp/assets/9066121/71994f06-97ef-46a4-9cbe-32148e24251f" width="200" height="200">
+<img src="https://github.com/itaishalom/FlutterMovieApp/assets/9066121/71994f06-97ef-46a4-9cbe-32148e24251f" width="200" height="300">
 
+<img src="https://github.com/itaishalom/FlutterMovieApp/assets/9066121/81f47a54-9309-4d15-b8db-dd04db0cad32" width="200" height="300">
 
-![WhatsApp Image 2024-04-11 at 15 53 45](https://github.com/itaishalom/FlutterMovieApp/assets/9066121/71994f06-97ef-46a4-9cbe-32148e24251f)
-![WhatsApp Image 2024-04-11 at 15 53 45 (1)](https://github.com/itaishalom/FlutterMovieApp/assets/9066121/81f47a54-9309-4d15-b8db-dd04db0cad32)
-![WhatsApp Image 2024-04-10 at 23 31 56](https://github.com/itaishalom/FlutterMovieApp/assets/9066121/2e5d157a-0f19-4dec-a54c-8a6918775f98)
-
+<img src="https://github.com/itaishalom/FlutterMovieApp/assets/9066121/2e5d157a-0f19-4dec-a54c-8a6918775f98" width="200" height="300">
 
