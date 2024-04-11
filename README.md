@@ -44,5 +44,14 @@ This is a Flutter application that retrieves and displays movie information from
 
 1. Clone this repository.
 2. Install dependencies: `flutter pub get`.
-3. Configure your own API key for The Movie DB (refer to their documentation).
+3. Configure your own API key for The Movie DB (refer to their documentation). Add it to the DI class.
 4. Run the app: `flutter run`.
+
+**⭐ Images:**
+
+<img src="https://github.com/itaishalom/FlutterMovieApp/assets/9066121/71994f06-97ef-46a4-9cbe-32148e24251f" width="200" height="300">
+
+<img src="https://github.com/itaishalom/FlutterMovieApp/assets/9066121/81f47a54-9309-4d15-b8db-dd04db0cad32" width="200" height="300">
+
+<img src="https://github.com/itaishalom/FlutterMovieApp/assets/9066121/2e5d157a-0f19-4dec-a54c-8a6918775f98" width="200" height="300">
+
