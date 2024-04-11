@@ -25,7 +25,7 @@ This is a Flutter application that retrieves and displays movie information from
             * Remote: Fetches data from external sources like The Movie DB API.
             * Local: Uses local storage solutions like Hive for caching and offline functionality.
         * Implements interfaces defined by the domain layer, allowing for easier switching between different data sources (e.g., local vs. remote).
-        * May include logic for data transformation and caching.
+        * Includes logic for data transformation and caching.
     * Domain Layer:
         * Defines core business logic and domain entities (e.g., Movie entity).
         * Repository Interface: Defines operations for data access (e.g., getMovies, saveMovie).
