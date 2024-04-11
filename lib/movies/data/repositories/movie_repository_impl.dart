@@ -6,7 +6,7 @@ import 'package:movies_app/movies/data/movie_mapper.dart';
 import 'package:movies_app/movies/domain/models/movie.dart';
 import 'package:movies_app/movies/domain/repositories/movie_repository.dart';
 
-class MovieRepositoryImpl extends MovieRepository {
+class MovieRepositoryImpl implements MovieRepository {
   final FetchMovieDataSource _remoteDataSource;
   final StorageMovieDataSource _storageMovieDataSource;
   final MovieMapper _movieMapper;

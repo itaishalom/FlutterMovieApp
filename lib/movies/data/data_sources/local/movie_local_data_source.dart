@@ -3,7 +3,7 @@ import 'package:movies_app/movies/data/data_sources/local/movie_db.dart';
 import 'package:movies_app/movies/data/data_sources/movie_data_source.dart';
 import 'package:movies_app/movies/data/entities/movie_entity.dart';
 
-class MovieLocalDataSource extends StorageMovieDataSource {
+class MovieLocalDataSource implements StorageMovieDataSource {
   final MovieDataBase _db;
 
   MovieLocalDataSource(MovieDataBase dataBase) : _db = dataBase;
