@@ -12,6 +12,7 @@ This is a Flutter application that retrieves and displays movie information from
 *  :white_check_mark:  Utilizes BLOC for state management, providing a predictable way to handle application state changes (stream-based approach).
 *  :white_check_mark:  Includes unit tests for some classes demonstrating testing practices.
 *  :white_check_mark:  Implemented a filtering feature to allow users to filter movies based on various criteria (genres, release date, etc.).
+*  :white_check_mark:  Pagination included!
 
 
 **⭐ Technical Decisions:**
@@ -39,6 +40,9 @@ This is a Flutter application that retrieves and displays movie information from
 * BLOC: Leverages BLOC for state management, offering a clear way to manage application state through streams.
 * Testing: Includes unit tests for some classes showcasing testing knowledge and commitment to code quality.
 * Dependency Injection: Implements a custom dependency injection solution to manage dependencies between classes, promoting loose coupling and testability.
+
+**⭐ Missing:**
+There is a map ID to the genre's name. It should also be queried to show the user the genre's names.
 
 **⭐ Getting Started:**
 
